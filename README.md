@@ -1,0 +1,1 @@
+# flume-jsonhbaseevent-serializer
